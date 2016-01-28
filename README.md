@@ -7,3 +7,6 @@ A collection of iOS open sources.
 
 ## Objective-C
 * [HackerNewsReader](https://github.com/rnystrom/HackerNewsReader) - A small, read-only app for Hacker News.
+
+# Other Repos
+* [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
